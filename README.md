@@ -1,1 +1,6 @@
-# seminariePython
+# seminarie Python
+
+medewerkers
+- Heide
+- Veerle
+- Peter
