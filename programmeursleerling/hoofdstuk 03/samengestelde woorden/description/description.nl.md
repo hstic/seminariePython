@@ -2,15 +2,15 @@ Lees twee woorden in op een afzonderlijke regel.
 
 Schrijf de samenstelling van de twee woorden uit.
 
-# Voorbeeld
+## Voorbeeld
 
-## Invoer
+### Invoer
 ```
 voet
 bal
 ```
 
-## Uitvoer
+### Uitvoer
 ```
 voetbal
 ```
