@@ -1,0 +1,6 @@
+>>> schuineZijde(3,4)
+5.0
+>>> schuineZijde(12,9)
+15.0
+>>> schuineZijde(4,5)
+6.40312423743
