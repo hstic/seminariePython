@@ -4,3 +4,4 @@ medewerkers
 - Heide
 - Veerle
 - Peter
+- Dominiek
