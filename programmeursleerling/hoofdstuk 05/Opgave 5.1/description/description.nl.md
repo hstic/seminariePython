@@ -25,5 +25,5 @@ De lengte van de ingegeven string is 4.
 De lengte van de ingegeven string is 5.
 ```
 
-![afbeelding programmeursleerling](/Users/heidesticker/PycharmProjects/seminariePython/programmeursleerling.png )
+![afbeelding programmeursleerling](/Users/heidesticker/PycharmProjects/seminariePython/programmeursleerling/figuurProgrammeursleerling.png)
 
