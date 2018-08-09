@@ -1,7 +1,6 @@
 Laat de gebruiker een willekeurige string ingeven.
-Druk daarna de lengte van de string af, inclusief eventuele spaties voor en na de ingegeven tekst.
-(Maak dus geen gebruik van de functie getString uit het de Programmeursleerling!)
-
+Druk daarna de lengte van de ingegeven string af, inclusief eventuele spaties voor en na de ingegeven tekst.
+(Maak dus geen gebruik van de functie getString uit de Programmeursleerling!)
 
 
 ## Voorbeeld
@@ -9,13 +8,22 @@ Druk daarna de lengte van de string af, inclusief eventuele spaties voor en na d
 ### Invoer
 ```
 test
- test
 ```
 
 ### Uitvoer
 ```
 De lengte van de ingegeven string is 4.
+```
+
+### Invoer
+```
+ test
+```
+
+### Uitvoer
+```
 De lengte van de ingegeven string is 5.
 ```
 
-![Naar oefening 5.1 uit De programmeursleerling, Pieter Spronck](figuurProgrammeursleerling.png)
+![afbeelding programmeursleerling](/Users/heidesticker/PycharmProjects/seminariePython/programmeursleerling " Naar oefening 5.1 uit De programmeursleerling, Pieter Spronck ")
+
