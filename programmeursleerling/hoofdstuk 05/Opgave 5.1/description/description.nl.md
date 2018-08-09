@@ -1,6 +1,6 @@
 Laat de gebruiker een willekeurige string ingeven.
 Druk daarna de lengte van de ingegeven string af, inclusief eventuele spaties voor en na de ingegeven tekst.
-(Maak dus geen gebruik van de functie getString uit de Programmeursleerling!)
+(Maak dus *geen* gebruik van de functie getString uit de Programmeursleerling!)
 
 
 ## Voorbeeld
@@ -25,5 +25,5 @@ De lengte van de ingegeven string is 4.
 De lengte van de ingegeven string is 5.
 ```
 
-![afbeelding programmeursleerling](/Users/heidesticker/PycharmProjects/seminariePython/programmeursleerling " Naar oefening 5.1 uit De programmeursleerling, Pieter Spronck ")
+![afbeelding programmeursleerling](/Users/heidesticker/PycharmProjects/seminariePython/programmeursleerling.png )
 
