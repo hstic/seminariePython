@@ -25,5 +25,5 @@ De lengte van de ingegeven string is 4.
 De lengte van de ingegeven string is 5.
 ```
 
-![afbeelding programmeursleerling](/media/figuurProgrammeursleerling.png)
+![afbeelding programmeursleerling](media/figuurProgrammeursleerling.png)
 
