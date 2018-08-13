@@ -7,4 +7,3 @@ De functie moet de lengte van de schuine zijde teruggeven als een floating-point
 >>> schuineZijde(3,4)
 5.0
 ```
-![alt text](description/figuurProgrammeursleerling.jpg)
