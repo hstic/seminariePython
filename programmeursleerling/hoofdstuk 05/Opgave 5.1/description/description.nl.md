@@ -25,5 +25,5 @@ De lengte van de ingegeven string is 4.
 De lengte van de ingegeven string is 5.
 ```
 
-![afbeelding programmeursleerling](media/figuurProgrammeursleerling.png " Naar oefening 5.1 uit *De programmeursleerling, Pieter Spronck*")
+![afbeelding programmeursleerling](media/figuurProgrammeursleerling.png "Naar oefening 5.1 uit *De programmeursleerling, Pieter Spronck*"){:data-caption="Naar oefening 5.1 uit *De programmeursleerling, Pieter Spronck*"}
 
