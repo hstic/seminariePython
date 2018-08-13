@@ -1,5 +1,5 @@
-Geef drie getallen in telkens op een afzonderlijke relgel.
-Bepaal van deze getallen het grootste, het kleinste en het gemiddelde afgerond op twee decimalen
+Geef drie gehele getallen in telkens op een afzonderlijke relgel.
+Bepaal van deze getallen het grootste, het kleinste en het gemiddelde afgerond op twee decimalen na de komma.
 
 
 ## Voorbeeld
@@ -13,9 +13,9 @@ Bepaal van deze getallen het grootste, het kleinste en het gemiddelde afgerond o
 
 ### Uitvoer
 ```
-Het grootste getal is 10,
+Het grootste getal is 10.
 Het kleinste getal is 6.
-Het gemiddelde is 7,67.
+Het gemiddelde is 7.67.
 ```
 
-![Naar oefening 5.3 uit De programmeursleerling, Pieter Spronck](figuurProgrammeursleerling.png)
+![Naar oefening 5.3 uit De programmeursleerling, Pieter Spronck](media/figuurProgrammeursleerling.png)
