@@ -27,6 +27,6 @@ De lengte van de ingegeven string is 5.
 
 
 <div class="dodona-centered-group">
-  <img alt="Programmeursleerling" height="200" data-caption="Naar oefening 5.1 uit De programmeursleerling, Pieter Spronck" src="media/programmeursleerling.png"/>
+  <img alt="Programmeursleerling" height="200" data-caption="Naar oefening 5.1 uit De programmeursleerling, Pieter Spronck" src="media/figuurProgrammeursleerling.png"/>
   <p><small>Naar oefening 5.1 uit <em>De programmeursleerling, Pieter Spronck</em>.</small></p>
 </div>
