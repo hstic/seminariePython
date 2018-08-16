@@ -1,6 +1,6 @@
 Vraag de gebruiker om een string. Druk af hoeveel verschillende klinkers er in de string zitten.
 
-De hoofdletter versie van een klinker wordt beschouwd als gelijk aan de kline-letter versie.
+De hoofdletter versie van een klinker wordt beschouwd als gelijk aan de kleine-letter versie.
 
 Verzorg de uitvoer zoals in de voorbeelden.
 
