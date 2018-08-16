@@ -18,4 +18,7 @@ Het kleinste getal is 6.
 Het gemiddelde is 7.67.
 ```
 
-![Naar oefening 5.3 uit De programmeursleerling, Pieter Spronck](media/figuurProgrammeursleerling.png)
+<div class="dodona-centered-group">
+  <img alt="Programmeursleerling" height="200" data-caption="Naar oefening 5.3 uit De programmeursleerling, Pieter Spronck" src="media/figuurProgrammeursleerling.png"/>
+  <p><small>Naar oefening 5.3 uit <em>De programmeursleerling, Pieter Spronck</em>.</small></p>
+</div>

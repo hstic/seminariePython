@@ -1,0 +1,12 @@
+{
+  "description": {
+    "names": {
+      "en": "Lengte ingegeven string",
+      "nl": "Lengte ingegeven string"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "visibility": "open"
+}
