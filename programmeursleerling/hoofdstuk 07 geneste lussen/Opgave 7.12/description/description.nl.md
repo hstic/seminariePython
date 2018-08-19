@@ -4,7 +4,7 @@ Schrijf een programma dat alle gehele getallen tussen 1 en een gegeven getal *a*
 ## Opgave
 
 De invoer is het getal *a*.
-De uitvoer bestaat uit een lijst van regels van de vorm z=x^2+y^2 waarbij x $$\leq$$ y $$ x$$.
+De uitvoer bestaat uit een lijst van regels van de vorm z=x^2+y^2 waarbij $$x \leq y$$.
 
 Als een getal gelijk is aan meerdere sommen van twee kwadraten, dan worden deze sommen onder elkaar uitgeschreven
 (vb. 50).
