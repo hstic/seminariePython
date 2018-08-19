@@ -1,7 +1,7 @@
 Schrijf een programma dat alle gehele getallen tussen 1 en een gegeven getal *a* afdrukt die geschreven kunnen
  worden als de som van twee kwadraten.
 
-##Opgave
+## Opgave
 
 De invoer is het getal *a*.
 De uitvoer bestaat uit een lijst van regels van de vorm z=x^2+y^2 waarbij x \leq y.
