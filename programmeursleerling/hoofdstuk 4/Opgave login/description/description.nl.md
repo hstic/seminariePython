@@ -14,6 +14,6 @@ selie
 
 ### Uitvoer
 ```
-Jouw logginnaam is pseli.
+Jouw loginnaam is pseli.
 ```
 
